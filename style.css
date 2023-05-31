@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    background-color: blue;
+}
+.header{
+    color: yellow;
+    border: 2px solid black;
+}
+#para{
+    color:red;
+}
+.container{
+    background: yellow;
+    border: 1px solid blue;
+    /* //top bottom //left right */
+    margin:30px 10px;
+    padding: 20px;
+}
+.container2{
+    border: 1px solid red;
+    padding: 30px;
+}
